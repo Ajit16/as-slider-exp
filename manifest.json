@@ -1,6 +1,6 @@
 {
-  "short_name": "as-slider-exp",
-  "name": "as-slider-exp",
+  "short_name": "as-slider",
+  "name": "as-slider",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
